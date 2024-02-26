@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "28E67656-1B8C-401A-B92D-471F54D42E42"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF5AEE8C-2B61-4CFF-A3F7-C3E778650DA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipsy/Controller/CalculatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7905E138-0993-45B1-B7BE-8215D94665FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipsy/Controller/CalculatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "tipChanged(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7905E138-0993-45B1-B7BE-8215D94665FD - 43f651ad537dc4f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.tipChanged(__C.UIButton) -&gt; ()"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hazemabouelfadl/iCloud%20Drive%20(Archive)/Documents/DocumentsLocal/Projects(CodeX)/test/Tipsy/Tipsy/Controller/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "7905E138-0993-45B1-B7BE-8215D94665FD - 43f651ad537dc4f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.tipChanged(__C.UIButton) -&gt; ()"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hazemabouelfadl/iCloud%20Drive%20(Archive)/Documents/DocumentsLocal/Projects(CodeX)/test/Tipsy/Tipsy/Controller/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "568">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD730E62-8020-46E6-AFC1-8AA02AD73203"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipsy/Controller/CalculatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "tipChanged(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FD730E62-8020-46E6-AFC1-8AA02AD73203 - 43f651ad537dc431"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.tipChanged(__C.UIButton) -&gt; ()"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hazemabouelfadl/iCloud%20Drive%20(Archive)/Documents/DocumentsLocal/Projects(CodeX)/test/Tipsy/Tipsy/Controller/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1060">
+               </Location>
+               <Location
+                  uuid = "FD730E62-8020-46E6-AFC1-8AA02AD73203 - 43f651ad537dc3de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.tipChanged(__C.UIButton) -&gt; ()"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hazemabouelfadl/iCloud%20Drive%20(Archive)/Documents/DocumentsLocal/Projects(CodeX)/test/Tipsy/Tipsy/Controller/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6098733A-E41A-46B9-BA7F-C1429F44A7C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipsy/Controller/CalculatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "tipChanged(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6098733A-E41A-46B9-BA7F-C1429F44A7C9 - 43f651ad537dc35a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.tipChanged(__C.UIButton) -&gt; ()"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hazemabouelfadl/iCloud%20Drive%20(Archive)/Documents/DocumentsLocal/Projects(CodeX)/test/Tipsy/Tipsy/Controller/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1440">
+               </Location>
+               <Location
+                  uuid = "6098733A-E41A-46B9-BA7F-C1429F44A7C9 - 43f651ad537dc35a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.tipChanged(__C.UIButton) -&gt; ()"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hazemabouelfadl/iCloud%20Drive%20(Archive)/Documents/DocumentsLocal/Projects(CodeX)/test/Tipsy/Tipsy/Controller/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1720">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A94580A6-FBCE-4BDF-A89C-92D4136ED618"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipsy/Controller/CalculatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "tipChanged(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A94580A6-FBCE-4BDF-A89C-92D4136ED618 - 43f651ad537dc37b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.tipChanged(__C.UIButton) -&gt; ()"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hazemabouelfadl/iCloud%20Drive%20(Archive)/Documents/DocumentsLocal/Projects(CodeX)/test/Tipsy/Tipsy/Controller/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1636">
+               </Location>
+               <Location
+                  uuid = "A94580A6-FBCE-4BDF-A89C-92D4136ED618 - 43f651ad537dc37b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.tipChanged(__C.UIButton) -&gt; ()"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hazemabouelfadl/iCloud%20Drive%20(Archive)/Documents/DocumentsLocal/Projects(CodeX)/test/Tipsy/Tipsy/Controller/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A84940D-FFE0-4304-8772-BEDFFBE9AA07"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipsy/Controller/CalculatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "tipChanged(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4A84940D-FFE0-4304-8772-BEDFFBE9AA07 - 43f651ad537dc284"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.tipChanged(__C.UIButton) -&gt; ()"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hazemabouelfadl/iCloud%20Drive%20(Archive)/Documents/DocumentsLocal/Projects(CodeX)/test/Tipsy/Tipsy/Controller/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2088">
+               </Location>
+               <Location
+                  uuid = "4A84940D-FFE0-4304-8772-BEDFFBE9AA07 - 43f651ad537dc284"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.tipChanged(__C.UIButton) -&gt; ()"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hazemabouelfadl/iCloud%20Drive%20(Archive)/Documents/DocumentsLocal/Projects(CodeX)/test/Tipsy/Tipsy/Controller/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7CA33D9-2398-4AD9-95B6-DD4B1EF2D897"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipsy/Controller/CalculatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "calculatePressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F7CA33D9-2398-4AD9-95B6-DD4B1EF2D897 - 1604894118980152"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.calculatePressed(__C.UIButton) -&gt; ()"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hazemabouelfadl/iCloud%20Drive%20(Archive)/Documents/DocumentsLocal/Projects(CodeX)/test/Tipsy/Tipsy/Controller/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "F7CA33D9-2398-4AD9-95B6-DD4B1EF2D897 - 1604894118980152"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.calculatePressed(__C.UIButton) -&gt; ()"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hazemabouelfadl/iCloud%20Drive%20(Archive)/Documents/DocumentsLocal/Projects(CodeX)/test/Tipsy/Tipsy/Controller/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
