@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6F6134912D8BEF7600EF67FC /* Instabug in Frameworks */ = {isa = PBXBuildFile; productRef = 6F6134902D8BEF7600EF67FC /* Instabug */; };
 		6F7C13282B45E41C0092209C /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F7C13272B45E41C0092209C /* ResultViewController.swift */; };
 		ADB689532326708D006D4E2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB689522326708D006D4E2B /* AppDelegate.swift */; };
 		ADB689552326708D006D4E2B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB689542326708D006D4E2B /* SceneDelegate.swift */; };
@@ -33,6 +34,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6F6134912D8BEF7600EF67FC /* Instabug in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -131,6 +133,9 @@
 				Base,
 			);
 			mainGroup = ADB689462326708D006D4E2B;
+			packageReferences = (
+				6F61348F2D8BEF7600EF67FC /* XCRemoteSwiftPackageReference "Instabug-SP" */,
+			);
 			productRefGroup = ADB689502326708D006D4E2B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -363,6 +368,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		6F61348F2D8BEF7600EF67FC /* XCRemoteSwiftPackageReference "Instabug-SP" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Instabug/Instabug-SP";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 14.3.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		6F6134902D8BEF7600EF67FC /* Instabug */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6F61348F2D8BEF7600EF67FC /* XCRemoteSwiftPackageReference "Instabug-SP" */;
+			productName = Instabug;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = ADB689472326708D006D4E2B /* Project object */;
 }

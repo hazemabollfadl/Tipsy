@@ -14,13 +14,27 @@ class CalculatorViewController: UIViewController {
     
     @IBOutlet var splitnNumberStepper: UIStepper!
     
+    @IBOutlet var calculateButton: UIButton!
+    
+    
     var isSelcted:String=""
     
     var result:Double=0.0
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        calculateButton.layer.cornerRadius=15
+        let tapGesture = UITapGestureRecognizer(target: self, action: #selector(dismissKeyboard))
+            tapGesture.cancelsTouchesInView = false
+            view.addGestureRecognizer(tapGesture)
         
+    }
+    
+    @objc func dismissKeyboard() {
+        view.endEditing(true)
+    }
+    func scrollViewWillBeginDragging(_ scrollView: UIScrollView) {
+        view.endEditing(true)
     }
     
     @IBAction func tipChanged(_ sender: UIButton) {
